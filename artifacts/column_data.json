@@ -1,0 +1,1 @@
+{"Brand": {"Tesla": 0, "BMW": 1, "Audi": 2, "Ford": 3}, "Fuel Type": {"Diesel": 0, "Petrol": 1, "Electric": 2}, "Transmission": {"Manual": 0, "Automatic": 1}, "Condition": {"Used": 0, "Like New": 1, "New": 2}, "Model": {"Model X": 0, "5 Series": 1, "A4": 2, "Model Y": 3, "Mustang": 4}}
