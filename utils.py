@@ -1,10 +1,10 @@
 import pickle
 import json
 
-with open('Car_Prediction_linear_reg_model.pkl', 'rb') as f:
+with open('artifacts/Car_Prediction_linear_reg_model.pkl', 'rb') as f:
     linear_model = pickle.load(f)
 
-with open('column_data.json', 'r') as f:
+with open('artifacts/column_data.json', 'r') as f:
     column_data = json.load(f)
 
 def get_car_price(data):
